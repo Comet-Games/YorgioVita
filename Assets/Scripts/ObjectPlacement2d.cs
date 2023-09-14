@@ -40,6 +40,9 @@ public class ObjectPlacement2d : MonoBehaviour
 
         maxCounts[2] = 1;
         UpdateMaxCountText(2);
+
+        maxCounts[4] = 3;
+        UpdateMaxCountText(4);
     }
 
     private void Update()

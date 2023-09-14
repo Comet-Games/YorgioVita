@@ -4064,7 +4064,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 1889833249908160, guid: 46d3522574e76e440ac7bc8f85557304, type: 2}
   - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1220102642089032, guid: 5139c9f928afbf04483d0960cf7bd33d, type: 2}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -4121,7 +4121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabInfos:
-  - prefab: {fileID: 1855122032733856, guid: a95c1b3e71fbb5446a2e9ac6c125029b, type: 2}
+  - prefab: {fileID: 1949892760090302, guid: a95c1b3e71fbb5446a2e9ac6c125029b, type: 2}
     probability: 200
   - prefab: {fileID: 1263661871648894, guid: 627a00fdffcddb346a67e0b3a473b6b4, type: 2}
     probability: 200

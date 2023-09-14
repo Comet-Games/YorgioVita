@@ -6,4 +6,9 @@ public class GameManager : MonoBehaviour {
 
     public int gems;
     public int baseNumber;
+
+    public void IncrementGems()
+    {
+        gems++;
+    }
 }
